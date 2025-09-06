@@ -1,4 +1,4 @@
-# 🌍 Global Land Temperature Analysis using R  
+# 🌍 Global Land Temperature Analysis using R language .  
 
 ## 📌 Project Overview  
 This project analyzes **global land surface temperatures** using the publicly available dataset from Kaggle: *Climate Change: Earth Surface Temperature Data*.  
